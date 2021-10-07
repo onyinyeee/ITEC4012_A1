@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 
 app.get('/api/TotoroFacts', (req, res) => {
     const Totoro = ["Some of the film was inspired by true events",
-        "The name Totoro relates to the Japanese word for “troll”", 
+        "The name Totoro relates to the Japanese word for troll", 
         "Inspired by Alice in Wonderland",
         "Has dark conspiracy theories",
         "It was originally a double-feature with Grave of the Fireflies",
