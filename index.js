@@ -24,7 +24,7 @@ app.get('/api/TotoroFacts', (req, res) => {
 
 app.get('/api/spiritedAway', (req, res) => {
     const spiritedfacts = ["Spirited Away was created without a script",
-        "Miyazaki does everything", 
+        "Miyazaki does everything from dirctiong to writing and storyboard", 
         "Chihiro was inspired by the daughter of one of the director’s friends",
         " The river spirit was inspired by Miyazaki’s experience cleaning a river",
         "The little extra scenes are called 'ma'",
